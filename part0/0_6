@@ -1,0 +1,8 @@
+Diagrama de Secuencia
+    participa el navegador
+    paraticia el servidor
+
+    el navegador hace una peticion al servidor bajo el metodo GET y el endpoint activo
+    el servidor da una respuesta a la peticion del navegador.
+	el navegador entrega al servidor bajo el metodo GET la informacion que se ha descrito en el campo texto, junto con la fecha
+	cierra la comunicación el servidor.
