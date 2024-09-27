@@ -1,0 +1,7 @@
+Diagra de Secuencia
+    participa el navegador
+    paraticia el servidor
+
+    el navegador hace una peticion al servidor bajo el metodo GET y el endpoint activo
+    el servidor da una respuesta a la peticion del navegador.
+	cierra la comunicación el servidor.
