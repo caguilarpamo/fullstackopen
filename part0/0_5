@@ -4,5 +4,5 @@ Diagra de Secuencia
 
     el navegador hace una peticion al servidor bajo el metodo GET y el endpoint activo
     el servidor da una respuesta a la peticion del navegador.
-	el navegador entrega al servidor bajo el metodo GET la informacion que se ha descrito en el campo texto, junto con la fecha
-	cierra la comunicación el servidor.
+    con la respuesta del servidor, el navegador ejecuta el script en javascript para apreciar los cambios.
+    cierra la comunicación el servidor.
